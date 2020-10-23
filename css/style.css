@@ -473,6 +473,12 @@ body {
   .add-button {
     max-width: 100%;
   }
+  .icon-likes, .icon-comments {
+    margin-left: 15px;
+  }
+  .post-button {
+    margin-right: 7px;
+  }
 }
 @media  (max-width: 576px) {
   .sidebar {
